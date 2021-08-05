@@ -315,7 +315,7 @@ a {
     font-size: 18px;
     line-height: 150%;
     text-transform: capitalize;
-    color: var(--text);
+    color: var(--second-color);
     margin-bottom: 30px;
 }
 
@@ -574,7 +574,7 @@ a {
 }
 .footer__contact:hover,
 .footer__link:hover{
-    color: #fff;
+    color: #000;
 }
 .footer__list{
     margin-bottom: 30px;
